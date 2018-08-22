@@ -1,0 +1,34 @@
+/********************* important ********************/
+/* only use this for global class, components and containers must use their own style.css
+/********************* important ********************/
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+html {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  -webkit-box-sizing: inherit;
+  -moz-box-sizing: inherit;
+  box-sizing: inherit;
+}
+
+.App {
+  display: block;
+  text-align: center;
+  padding: 30px;
+  font-size: 18px;
+}
+
+h1 {
+  display: block;
+  text-align: center;
+  padding: 30px;
+  font-size: 26px;
+}
