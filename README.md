@@ -1,6 +1,7 @@
 React Lifecycle Boiler plate
 
 Run Npm install or Yarn
+
 Then:
 Run Npm start
 
